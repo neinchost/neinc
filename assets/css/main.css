@@ -207,6 +207,7 @@ input, select, textarea {
 	h5 {
 		font-size: 0.8em;
 		line-height: 1.5em;
+		color: #FFFFFF80
 	}
 
 	h6 {
@@ -3676,6 +3677,7 @@ input, select, textarea {
 				margin: 0 0 0 -0.75em;
 				position: absolute;
 				width: 1.5em;
+				
 			}
 
 		#banner:after {
@@ -3937,6 +3939,7 @@ input, select, textarea {
 						margin: 0;
 						padding: 0.5em 0;
 					}
+
 
 				}
 
